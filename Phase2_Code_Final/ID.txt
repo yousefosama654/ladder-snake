@@ -1,0 +1,18 @@
+Member 1:
+Name:يوسف اسامة محمد توفيق
+ID: 9211386
+Email:Youssef.Tawfiq02@eng-st.cu.edu.eg
+Section:2 BN:35 
+---------------------------------------
+Member 2:
+Name:عمرو مجدي عبد الواحد عبد العزيز
+ID: 9210780
+Email:amr4121999@gmail.com
+Section:1 BN:33 
+---------------------------------------
+Member 3:
+Name:أحمد باسم وسيم أحمد القاضي
+ID: 9210048
+Email:ahmed.bassem2002@gmail.com
+Section:1 BN:7 
+---------------------------------------
